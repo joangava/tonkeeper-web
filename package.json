@@ -10,7 +10,7 @@
   "devDependencies": {
     "prettier": "^2.6.2",
     "turbo": "^1.6.3",
-    "webpack": "^5.80.0",
+    "webpack": "^5.104.1",
     "webpack-cli": "^5.0.1"
   },
   "workspaces": {
